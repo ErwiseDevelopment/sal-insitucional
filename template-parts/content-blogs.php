@@ -1,4 +1,4 @@
-<section class="l-blogs u-border-top-2 u-border-color-secondary">
+<section class="l-blogs u-border-top-2  u-border-color-primary ">
 
     <div class="container">
 
@@ -151,7 +151,7 @@
                     <div class="col-lg-12 d-flex justify-content-center my-4 px-0">
 
                         <a 
-                        class="l-blogs__btn-more-content w-100 u-line-height-100 u-border-2 u-border-color-secondary d-block u-font-weight-bold text-center text-uppercase text-decoration-none u-color-folk-theme hover:u-color-folk-white u-bg-folk-none hover:u-bg-folk-theme p-3" 
+                        class="l-blogs__btn-more-content w-100 u-line-height-100 u-border-2  u-border-color-primary  d-block u-font-weight-bold text-center text-uppercase text-decoration-none u-color-folk-theme hover:u-color-folk-white u-bg-folk-none hover:u-bg-folk-theme p-3" 
                         href="http://portal.erwise.com.br/blogs?cat=39"
                         data-aos="zoom-in">
                             + Conteúdos
