@@ -24,7 +24,7 @@ get_header(); ?>
 <!-- end banner -->
 
 <!-- news -->
-<section class="l-news u-border-top-2 u-border-color-secondary my-4">
+<section class="l-news u-border-top-2  u-border-color-primary  my-4">
 
     <div class="container">
 
@@ -324,7 +324,7 @@ get_header(); ?>
                         <div class="col-lg-2 d-flex justify-content-center my-4 px-0">
 
                             <a 
-                            class="l-news__btn-new w-100 u-line-height-100 u-border-2 u-border-color-secondary d-block u-font-weight-bold text-center text-uppercase text-decoration-none u-color-folk-theme hover:u-color-folk-white u-bg-folk-none hover:u-bg-folk-theme p-3 aos-init" 
+                            class="l-news__btn-new w-100 u-line-height-100 u-border-2  u-border-color-primary  d-block u-font-weight-bold text-center text-uppercase text-decoration-none u-color-folk-theme hover:u-color-folk-white u-bg-folk-none hover:u-bg-folk-theme p-3 aos-init" 
                             href="https://portal.erwise.com.br/category/portal-inspetoria-noticia/" 
                             data-aos="zoom-in">
                                 + Notícias
