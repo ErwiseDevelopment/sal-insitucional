@@ -1,6 +1,6 @@
 <section 
 class="l-sec-about py-5"
-style="background-image: url(https://inspetoria.erwise.com.br/wp-content/uploads/2022/02/institucional-quem-somos-banner.png)">
+style="background-image: url(<?php echo get_home_url( null, '/wp-content/uploads/2022/02/institucional-quem-somos-banner.png')?>">
 
     <div class="container">
 
@@ -56,7 +56,7 @@ style="background-image: url(https://inspetoria.erwise.com.br/wp-content/uploads
 
                         <a 
                         class="l-news__small__card-read-more u-line-height-100 hover:u-opacity-8 d-block u-font-weight-bold text-center text-decoration-none u-color-folk-white u-bg-folk-secondary py-2 px-5" 
-                        href="#">
+                        href="<?php echo get_field('botao_ler_mais')?>">
                             Saiba mais!
                         </a>
                     </div>
