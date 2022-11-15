@@ -439,6 +439,15 @@ get_header(); ?>
                                 endif;
                             ?>
                             <!-- end book loop -->
+                            <div class="col-lg-9">
+                                <a 
+                                class="l-digital__download u-line-height-100 hover:u-opacity-8 d-block u-font-weight-bold text-center text-decoration-none u-color-folk-white u-bg-folk-theme p-3" 
+                                href="<?php echo $link_pattern . 'e-book'?>"
+                                target="_blank"
+                                rel="noreferrer noopener">
+                                    Mais conteúdos 
+                                </a>
+                            </div> 
                         </div>
                     </div>
 
